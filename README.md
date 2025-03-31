@@ -4,7 +4,7 @@ This is the repository for the Shadow sprite sheet for Super Metroid, intended f
 
 ## Shadow Samus Menu
 
-![shadow_v5_menu](https://github.com/user-attachments/assets/93075b41-4348-47a9-ab4e-2c9898ff8f8c)
+![shadow_menu2](https://github.com/user-attachments/assets/240f318b-c18c-4292-9e1a-0a91dbf607c3)
 
 ## Shadow Samus Power Suit
 
