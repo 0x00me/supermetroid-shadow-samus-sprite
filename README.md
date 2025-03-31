@@ -4,25 +4,23 @@ This is the repository for the Shadow sprite sheet for Super Metroid, intended f
 
 ## Shadow Samus Menu
 
-![sp_v15_menu](https://github.com/user-attachments/assets/bd95d567-832d-490e-9d7a-872015858538)
-
+![shadow_v5_menu](https://github.com/user-attachments/assets/93075b41-4348-47a9-ab4e-2c9898ff8f8c)
 
 ## Shadow Samus Power Suit
 
-![sp_v15_green](https://github.com/user-attachments/assets/12ff5998-b2e8-4b01-be6a-dd10b01739c9)
+![shadow_v5_power](https://github.com/user-attachments/assets/81a11c20-e05f-4a09-9971-204d3d8c1c48)
 
 ## Shadow Samus Varia Suit
 
-![sp_v15_yellow](https://github.com/user-attachments/assets/df5248e9-e09e-4f74-ba0c-11de99521d04)
+![shadow_v5_varia](https://github.com/user-attachments/assets/204703a4-a180-4f03-a3af-185cf0ca2164)
 
 ## Shadow Samus Gravity Suit
 
-![sp_v15_pink](https://github.com/user-attachments/assets/182f78ad-295a-433b-9ef4-6b077991d665)
-
+![shadow_v5_gravity](https://github.com/user-attachments/assets/79934121-c28d-4f6a-b401-4f99360d69af)
 
 ## Credits and License
 
-This sprite is based on the concept of Dark Link from Ocarina of time, and another Hollow Kight stuff. 
+This sprite is based on the concept of Dark Link from N64 Ocarina of Time , and another Hollow Kight stuff. 
 
 Feel free to use it in any project. 
 
