@@ -20,7 +20,7 @@ This is the repository for the Shadow sprite sheet for Super Metroid, intended f
 
 ## Credits and License
 
-This sprite is based on the concept of Dark Link from N64 Ocarina of Time , and another Hollow Kight stuff. 
+This sprite is based on the concept of Dark Link from N64 Ocarina of Time , and other Hollow Kight stuff. 
 
 Feel free to use it in any project. 
 
